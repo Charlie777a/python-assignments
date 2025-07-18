@@ -1,2 +1,2 @@
-# python-assignment-1
+# python-assignment
 all python assignments from tutedude
